@@ -1,0 +1,171 @@
+
+#div21{
+	width: 200px;
+	height: 100px;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+#div211{
+	width: 200px;
+	height: 100px;
+	font-size: 40px;
+	background-color: gray;
+	color: white;
+}
+
+#div22{
+	width: 200px;
+	height: 40px;
+	margin-top: 90px;
+	font-size: 30px;
+	margin-left: 18px;
+	color: white;
+}
+
+#div221{
+	width: 100px;
+	height: 35px;
+	background-color: gray;
+	color: white;
+}
+
+#div23{
+	width: 200px;
+	height: 40px;
+	margin-top: 10px;
+	font-size: 30px;
+	margin-left: 18px;
+	color: white;
+}
+
+#div231{
+	width: 100px;
+	height: 35px;
+	background-color: gray;
+	color: white;
+}
+
+#div24{
+	width: 200px;
+	height: 40px;
+	margin-top: 10px;
+	font-size: 30px;
+	margin-left: 18px;
+	color: white;
+}
+
+#div241{
+	width: 100px;
+	height: 35px;
+	background-color: gray;
+	color: white;
+}
+
+#div25{
+	width: 200px;
+	height: 40px;
+	margin-top: 10px;
+	font-size: 30px;
+	margin-left: 18px;
+	color: white;
+}
+
+#div251{
+	width: 100px;
+	height: 35px;
+	background-color: gray;
+	color: white;
+}
+
+#div26{
+	width: 200px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-size: 30px;
+	color: white;
+	margin-top: 100px;
+}
+
+#div261{
+	width: 70px;
+	height: 35px;
+	background-color: gray;
+	color: white;
+}
+
+#div27{
+	width: 200px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-size: 30px;
+	color: white;
+}
+
+#div271{
+	width: 70px;
+	height: 35px;
+	background-color: gray;
+	color: white;
+}
+
+#div28{
+	width: 200px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 15px;
+	font-size: 30px;
+	color: white;
+}
+
+#div281{
+	width: 70px;
+	height: 35px;
+	background-color: gray;
+	color: white;
+}
+
+#div3{
+	width: 250px;
+	height: 800px;
+	float: left;
+	background-image: url(../img/1.png);
+	margin-top: -178px;
+}
+
+
+#divv{
+	width: 1900px;
+	height: 900px;
+	background-image: url(../img/bac1.jpg);width: 1900px; height: 900px;
+	background-repeat: no-repeat;
+	border: 1px solid red;
+}
+
+#div4{
+	border: 2px solid white;
+	width: 600px;
+	height: 150px;
+	margin-left: 580px;
+	margin-top: 60px;
+	background-image: url(../img/bac.png);
+}
+
+#div31{
+	border: 3px solid white;
+	width: 200px;
+	height: 200px;
+	margin-top: 30px;
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+}
+
+#div32{
+	width: 250px;
+	height: 500px;
+	margin-top: 25px;
+	background-image: url(../img/boom.png);
+}
